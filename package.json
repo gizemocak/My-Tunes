@@ -1,0 +1,14 @@
+{
+  "name": "My tunes",
+  "version": "1.0.0",
+  "description": "Simple landing page website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Gizem Ocak",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
